@@ -10,6 +10,7 @@
   />
 </a>
 
+
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/ELEVATE-Project/interface-service/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/ELEVATE-Project/interface-service/tree/master)
 [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=ELEVATE-Project_interface-service&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=ELEVATE-Project_interface-service)
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=ELEVATE-Project_interface-service&metric=coverage)](https://sonarcloud.io/summary/new_code?id=ELEVATE-Project_interface-service)
